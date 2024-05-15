@@ -161,6 +161,7 @@ section {
 /* PROFILE SECTION */
 
 #profile {
+    margin-bottom: 30px;
     display: flex;
     justify-content: center;
     gap: 5rem;
